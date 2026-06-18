@@ -1,6 +1,10 @@
 # Flow Straight and Fast: Rectified Flows in Python Unofficial LeetArxiv Implementation
 [Rectified Flow models](https://leetarxiv.substack.com/p/rectified-flow-for-everyday-programmers) are a class of ODE solvers that learn to draw straight lines between noisy data and correct data.
 
+![ODE Comparison](Poster.png)
+
+
+
 Rectified flow models power Stable Diffusion 3 and we code the paper on [LeetArxiv](https://leetarxiv.substack.com/p/rectified-flow-for-everyday-programmers).
 
 This is part of our _Diffusion Models From Scratch_ series:
